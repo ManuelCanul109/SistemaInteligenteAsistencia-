@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QRCode Scanner</string>
+    <string name="take_barcode_picture">Tomar foto de código de barras</string>
+    <string name="scan_barcode">Escanear código de barras</string>
+    <string name="open_camera">ABRIR CAMARA</string>
+
+    <string name="register">Registro de Alumnos</string>
+    <string name="login_email_hint">Correo</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="signup_login_hint">Ya tienes una cuenta? Inicia Sesión!</string>
+    <string name="login_signup_hint">No tienes una cuenta? Registrate!</string>
+</resources>
